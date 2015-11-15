@@ -10,3 +10,6 @@ Les aparecera una consola, luego digitan el siguiente comando:
 
 Install-Package Microsoft.AspNet.WebApi.Client
 
+Para mas detalle:
+
+http://www.asp.net/web-api/overview/advanced/calling-a-web-api-from-a-net-client
